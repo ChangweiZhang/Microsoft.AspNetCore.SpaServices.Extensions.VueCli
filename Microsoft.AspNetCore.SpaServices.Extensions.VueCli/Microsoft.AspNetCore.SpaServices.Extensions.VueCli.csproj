@@ -3,15 +3,16 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <Authors>Changwei Zhang</Authors>
     <Company />
     <Description>This extension is made for Vue CLI with ASP.NET Core, and you can use this middleware just as use Angular Cli middleware</Description>
     <PackageTags>Vue</PackageTags>
     <NeutralLanguage></NeutralLanguage>
-    <PackageLicenseUrl>https://github.com/ChangweiZhang/Microsoft.AspNetCore.SpaServices.Extensions.VueCli</PackageLicenseUrl>
+    <PackageLicenseUrl>https://github.com/ChangweiZhang/Microsoft.AspNetCore.SpaServices.Extensions.VueCli/blob/master/License.txt</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/ChangweiZhang/Microsoft.AspNetCore.SpaServices.Extensions.VueCli</PackageProjectUrl>
     <Copyright />
+    <PackageId>Changwei.AspNetCore.SpaServices.Extensions.VueCli</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
