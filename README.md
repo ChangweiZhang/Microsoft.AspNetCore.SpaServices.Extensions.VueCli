@@ -6,7 +6,7 @@ This extension is made for Vue CLI with ASP.NET Core, and you can use this middl
 
 Get it from nuget package manager
 ```
-Install-Package Changwei.AspNetCore.SpaServices.Extensions.VueCli -Version 1.0.0
+Install-Package Changwei.AspNetCore.SpaServices.Extensions.VueCli
 ```
 
 ## How to use?
