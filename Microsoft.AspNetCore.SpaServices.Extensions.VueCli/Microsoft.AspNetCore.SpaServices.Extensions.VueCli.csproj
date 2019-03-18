@@ -13,6 +13,7 @@
     <PackageProjectUrl>https://github.com/ChangweiZhang/Microsoft.AspNetCore.SpaServices.Extensions.VueCli</PackageProjectUrl>
     <Copyright />
     <PackageId>Changwei.AspNetCore.SpaServices.Extensions.VueCli</PackageId>
+    <Version>1.1.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
